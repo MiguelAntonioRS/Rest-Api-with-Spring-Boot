@@ -1,6 +1,6 @@
 # RESTful Spring Boot Application 
  
-This project is a Spring Boot RESTful API that manages `Maker` and `Product` entities, providing basic CRUD operations. It includes an example of using DTOs, services, repositories, and controllers. The application follows good software engineering practices and implements design patterns such as **DAO (Data Access Object)** and **DTO (Data Transfer Object)**.
+This project is a Spring Boot RESTful API that manages `Maker` and `Product` entities, providing basic CRUD operations. It includes an example of using DTOs, services, repositories, and controllers. The application follows good software engineering practices and implements design patterns such as **DAO (Data Access Object)** and **DTO (Data Transfer Object)**. 
 
 ## Requirements
 
