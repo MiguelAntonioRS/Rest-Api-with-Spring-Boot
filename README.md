@@ -9,7 +9,7 @@ This project is a Spring Boot RESTful API that manages `Maker` and `Product` ent
 - A database (H2, MySQL, PostgreSQL, etc.)
 - An IDE (Optional: IntelliJ IDEA, Eclipse)
 
-## Getting Started 
+## Getting Started
 
 Follow these steps to set up and run the project locally.
 
