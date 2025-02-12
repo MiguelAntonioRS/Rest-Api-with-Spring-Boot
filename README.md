@@ -2,7 +2,7 @@
 
 This project is a Spring Boot RESTful API that manages `Maker` and `Product` entities, providing basic CRUD operations. It includes an example of using DTOs, services, repositories, and controllers. The application follows good software engineering practices and implements design patterns such as **DAO (Data Access Object)** and **DTO (Data Transfer Object)**.
 
-## Requirements 
+## Requirements
  
 - Java 8+ (JDK)
 - Maven 3.6+
