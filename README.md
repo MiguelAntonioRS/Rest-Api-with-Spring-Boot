@@ -6,7 +6,7 @@ This project is a Spring Boot RESTful API that manages `Maker` and `Product` ent
 
 - Java 8+ (JDK)
 - Maven 3.6+
-- A database (H2, MySQL, PostgreSQL, etc.) 
+- A database (H2, MySQL, PostgreSQL, etc.)
 - An IDE (Optional: IntelliJ IDEA, Eclipse)
  
 ## Getting Started
