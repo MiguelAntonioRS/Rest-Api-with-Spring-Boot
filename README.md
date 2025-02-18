@@ -17,7 +17,7 @@ Follow these steps to set up and run the project locally.
 
 ```bash
 git clone https://github.com/MiguelAntonioRS/Rest-Api-with-Spring-Boot.git
-cd ApiRestwithSpringBoot
+cd ApiRestwithSpringBoot 
 ```
 
 ### 2. Build the project
