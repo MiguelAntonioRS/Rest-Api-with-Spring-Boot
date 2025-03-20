@@ -12,7 +12,7 @@ This project is a Spring Boot RESTful API that manages `Maker` and `Product` ent
 ## Getting Started
 
 Follow these steps to set up and run the project locally.
- 
+
 ### 1. Clone the repository
 
 ```bash
