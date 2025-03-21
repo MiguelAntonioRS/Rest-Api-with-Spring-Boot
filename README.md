@@ -10,7 +10,7 @@ This project is a Spring Boot RESTful API that manages `Maker` and `Product` ent
 - An IDE (Optional: IntelliJ IDEA, Eclipse)
  
 ## Getting Started
-
+ 
 Follow these steps to set up and run the project locally.
 
 ### 1. Clone the repository
